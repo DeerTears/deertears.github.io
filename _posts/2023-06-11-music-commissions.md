@@ -5,7 +5,7 @@ date: 2023-06-11
 categories: portfolio
 ---
 
-Below are various styles of music that I've composed and performed. [Give me a shout](mailto:gdnghtgrl@gmail.com) if you're interested in hiring me to compose something similar to any of these styles. 
+Below are various styles of music that I've composed and performed. [Give me a shout](mailto:gdnghtgrl@gmail.com) if you're interested in hiring me to compose something similar to any of these styles.  I'm always happy to talk about options and take inspiration from other works as well.
 
 {:toc}
 
