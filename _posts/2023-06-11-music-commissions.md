@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Music Showcase"
-date: 2023-06-11 19:55:00 -0700
+date: 2023-06-11
 categories: portfolio
 ---
 
