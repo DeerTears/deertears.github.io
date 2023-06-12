@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Music Showcase"
-date: 2023-06-11
-toc: true
+date: 2023-06-11 19:55:00 -0700
+categories: portfolio
 ---
 
 Below are various styles of music that I've composed and performed. [Give me a shout](mailto:gdnghtgrl@gmail.com) if you're interested in hiring me to compose something similar to any of these styles. 

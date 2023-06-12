@@ -29,6 +29,15 @@ social_username: goodnight_grrl
 # Choose from: black (default), blue, gray, magenta, orange, red, white, and yellow.
 theme_color: black
 
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "default"
+      toc: true
+
 # Build settings
 markdown: kramdown
 plugins:
