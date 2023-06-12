@@ -7,6 +7,8 @@ categories: portfolio
 
 Below are various styles of music that I've composed and performed. [Give me a shout](mailto:gdnghtgrl@gmail.com) if you're interested in hiring me to compose something similar to any of these styles. 
 
+{:toc}
+
 ## Gameboy
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1187601049&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/goodnight-girl" title="Goodnight Girl" target="_blank" style="color: #cccccc; text-decoration: none;">Goodnight Girl</a> · <a href="https://soundcloud.com/goodnight-girl/birdboy-chill-mix" title="Birdboy (chill mix)" target="_blank" style="color: #cccccc; text-decoration: none;">Birdboy (chill mix)</a></div>
