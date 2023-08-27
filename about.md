@@ -3,19 +3,10 @@ layout: page
 title: About
 permalink: /about/
 ---
+My name is Emberlynn Bland (she/they). I'm a multidisciplinary digital artist and tutor. I do freelance work as a graphic designer, gameboy composer, and a non-fiction writer.
 
-Swiss is a bold Jekyll theme inspired by Swiss design and the works of Massimo Vignelli. This theme lends itself well to sites heavy on written content.
+You can see what I've made in my [Portfolio](https://deertears.github.io/portfolio/) section.
 
-### Features:
-* Mobile-first design ensures this theme performs fastest on mobile while scaling elegantly to desktop-size screens.
-* Designed for blogs and sites heavy on written content, with bold typography styles, homepage summaries, and previous/next snippets.
-* Supports a wide range of HTML elements and markdown.
-* Flexible styles that can be reused for customization without adding additional CSS.
-* Simple styling for code snippets (if you want something with syntax highlighting, checkout ....)
-* Dynamically generated navigation links. See docs below for adding pages with specific post category for-loops.
+My main goal in maintaining this blog is to keep a record of my thoughts for my later self, and for anyone else who finds it useful. I hope to provide some creative/logistical insight, reveal my day-to-day struggles with ADHD, get things off my mind if they're bothering me. But like, not in a venting kinda way, just the minor stuff I usually shrug off and don't usually talk about like the pains of backing up data.
 
-## Themes
-
-## Browser Support
-
-## Installation
+I'm hosting this through Github right now, but I'm fully open to try other services. I refuse to do this on Twitter, Discord, or Tumblr (anymore) because frankly it all seems like it's bound to implode at some point, and I'd like knowing I have a backup of all my written words to count on if any one of those services suffers data loss or something else severe. I tried the HTML neocities route for a bit which was fun, but my hands would appreciate writing less HTML tags and writing more words, so, Jekyll it is. Enjoy your stay!
